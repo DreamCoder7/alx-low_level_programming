@@ -3,7 +3,7 @@
 /**
   * main - entry point
   *
-  * Description: Print all possible diff combinations of two digits. 
+  * Description: Print all possible diff combinations of two digits 
   * Return: 0
   */
 
