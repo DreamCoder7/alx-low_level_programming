@@ -18,3 +18,25 @@ Tasks
 
   5. Numbers
   	- prints all single digit numbers of base 10 starting from 0.
+
+  6. Numberz
+  	- prints all single digit numbers of base 10
+
+  7. Smile in the mirror
+  	- Prints the lowercase alphabet in reverse
+
+  8. Hexadecimal
+  	- Prints all numbers all the numbers of base 16 in lowercase
+
+  9. Patience, persistence and perspiration make an unbeatable combination for success
+  	- Print all possible combinations of single-digit numbers.
+
+
+
+
+
+
+
+
+
+
