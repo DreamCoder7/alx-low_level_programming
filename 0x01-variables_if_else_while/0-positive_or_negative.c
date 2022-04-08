@@ -3,6 +3,11 @@
 /* more headers goes there */
 #include <stdio.h>
 /* betty style doc for function main goes there */
+
+/**
+ * Main function - Hundle the function body
+ */
+
 int main(void)
 {
 	int n;
