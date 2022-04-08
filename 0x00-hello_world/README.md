@@ -22,3 +22,5 @@
 7. Intel
 
 	Script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+
+8. UNIX is basically a simple operating system, but you have to be genius to understand the Simplicity
