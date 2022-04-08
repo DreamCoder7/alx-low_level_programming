@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
+
 /**
-  * main - Print if one of the specify condition become true
-  *
-  * Return - If any of the specify condition aren't true.0 otherwise
+  * main - Prints if the specify condition for (@n) is fulfil
+  * Return - return if the a bove value is correct. 0 otherwise
   */
 int main(void)
 {
