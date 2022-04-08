@@ -3,10 +3,9 @@
 /**
   * main - entry point
   *
-  * Description: Print all possible diff combinations of two digits 
+  * Description: Print all possible combinations of two digit number
   * Return: 0
   */
-
 int main(void)
 {
 	int num1, num2;
