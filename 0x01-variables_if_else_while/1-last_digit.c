@@ -5,7 +5,8 @@
 
 /**
   * main - Prints if the specify condition for (@n) is fulfil
-  * Return - return if the a bove value is correct. 0 otherwise
+  *
+  * Return: return if the a bove value is correct. 0 otherwise
   */
 int main(void)
 {
