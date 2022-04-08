@@ -1,11 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
 #include <stdio.h>
-/* betty style doc for function main goes there */
 
 /**
- * Main function - Hundle the function body
+ * main - Prints if the specify condition for (@n) is fulfil
+ * Return: return if the a bove value is correct. 0 otherwise
  */
 int main(void)
 {
@@ -29,9 +28,5 @@ int main(void)
 		printf("%d", n);
 		printf(" is negative\n");
 	}
-
-	/**
-	  * return 0
-	  */
 	return (0);
 }
