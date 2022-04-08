@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+  * main - entry point
+  *
+  * Description: Print all possible diff combinations of two digits. 
+  * Return: 0
+  */
 
 int main(void)
 {
