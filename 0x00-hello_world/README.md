@@ -7,3 +7,5 @@
 2. Assembler
 	script that generates the assembly code of a C code and save in an out file.
 
+3. Name 
+	script that compiles a C file and creates an executable named cisfun
