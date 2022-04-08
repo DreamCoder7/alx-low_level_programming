@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
-  * main - Print if one of the specify condition become true based on the @n value
+  * main - Print if one of the specify condition become true
   *
-  * Return - return 0 if any of the specify condition aren't true
+  * Return - If any of the specify condition aren't true.0 otherwise
   */
 int main(void)
 {
