@@ -11,3 +11,6 @@
 
 3. Islower
 	- Checks for lowercase character.
+
+4. Isalpha
+	- Checks for alphabetic character.
