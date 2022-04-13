@@ -1,6 +1,8 @@
 0x02. C - Functions, nested loops
 
 0. _putchar
-	-prints _putchar, followed by a new line.
+	- Prints _putchar, followed by a new line.
 
+1. I sometimes suffer from insomina.And when I can;t fall asleep, I play what i call the alphabet game 
+	- Prints the alphabet, in lowercase, followed by new line.
 
