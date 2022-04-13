@@ -8,3 +8,6 @@
 
 2. 10 x alphabet
 	- Print 10 times the alphabet, in lowercase, followed by a new line
+
+3. Islower
+	- Checks for lowercase character.
