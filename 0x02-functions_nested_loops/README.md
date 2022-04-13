@@ -17,3 +17,7 @@
 
 5. Sign 
 	- Prints the sign of the number.
+
+6. There is no such thing as absolute value in the world. You can only estimate what a thing is worth to you
+	- Computes the absolute value of an integer.
+
