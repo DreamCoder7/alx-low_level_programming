@@ -14,3 +14,6 @@
 
 4. Isalpha
 	- Checks for alphabetic character.
+
+5. Sign 
+	- Prints the sign of the number.
