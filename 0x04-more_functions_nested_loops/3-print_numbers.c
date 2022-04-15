@@ -1,10 +1,9 @@
 #include "main.h"
-#include "_putchar.c"
 
 /**
   * print_numbers - print the numbers, from 0 to 9, followed by a new line
   *
-  * Return: zero
+  * Return: zero (Success)
   */
 void print_numbers(void)
 {
@@ -12,7 +11,7 @@ void print_numbers(void)
 
 	for ( num = 0; num < 10; num++)
 	{
-		_putchar('%d' + num);
+		_putchar(i + '0');
 	}
 
 	_putchar('\n');
