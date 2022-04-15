@@ -1,10 +1,9 @@
 #include "main.h"
-#include "_putchar.c"
 
 /**
   * _isdigit - checks for a digit 0 through 9
   * @c: input
-  * Return: 1 if is a number o through 9, 0 otherwise.
+  * Return: 1 if it's a number 0 through 9, 0 otherwise.
   */
 
 int _isdigit(int c)
