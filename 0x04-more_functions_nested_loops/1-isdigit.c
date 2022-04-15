@@ -1,4 +1,5 @@
 #include "main.h"
+#include "_putchar.c"
 
 /**
   * _isdigit - checks for a digit 0 through 9
