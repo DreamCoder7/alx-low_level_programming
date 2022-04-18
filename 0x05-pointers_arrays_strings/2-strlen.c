@@ -2,10 +2,9 @@
 
 /**
   * _strlen - return the length of a string.
+  * @s : A pointer to an int that will be updated
   *
-  * @s : parameter 
-  *
-  * Return - length of string
+  * Return: void that means our answer is correct
   */
 
 int _strlen(char *s)
