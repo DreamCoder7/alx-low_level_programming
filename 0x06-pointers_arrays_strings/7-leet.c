@@ -1,5 +1,5 @@
 /**
-  * leet - translates string to 1337.
+  * *leet - translates string to 1337.
   * @s: pointer to string
   * Return: @string
   */
@@ -24,6 +24,5 @@ char *leet(char *string)
 			}
 		}
 	}
-
 	return (string);
 }
