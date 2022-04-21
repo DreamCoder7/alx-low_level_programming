@@ -1,6 +1,5 @@
 /**
   * *cap_string - capitalizes the words of string.
-  *
   * @s: string
   *
   * Return: @s
