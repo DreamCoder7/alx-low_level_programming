@@ -1,5 +1,5 @@
 /**
-  * *_strncat - a function that concatenates two strings
+  * *_strncat - a function that concatenates two strings.
   *
   * @dest: pointer to destination input
   * @src: pointer to source input
@@ -11,7 +11,6 @@
 char *_strncat(char *dest, char *src, int n)
 {
 	int c, i;
-
 	c = 0;
 
 	while (dest[c])
