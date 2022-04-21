@@ -1,5 +1,5 @@
 /**
-  * *cap_string - capitalizes the words of string
+  * *cap_string - capitalizes the words of string.
   *
   * @s: string
   *
@@ -11,7 +11,9 @@ char *cap_string(char *s)
 {
 
 	int x, y;
+
 	int trigger;
+
 	char nots[] = ",;.!?(){}\nt\" ";
 
 	for (x = 0, trigger = 0; s[x] != '\0'; x++)
@@ -37,5 +39,6 @@ char *cap_string(char *s)
 				trigger = 0;
 		}
 	}
+
 	return (s);
 }
