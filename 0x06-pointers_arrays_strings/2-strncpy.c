@@ -1,5 +1,5 @@
 /**
-  * *strncpy - function that copies a string
+  * *_strncpy - function that copies a string.
   *
   * @dest: string to copy to
   * @src: string to be copied from
