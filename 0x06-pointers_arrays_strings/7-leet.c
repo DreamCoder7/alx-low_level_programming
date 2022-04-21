@@ -4,7 +4,7 @@
   * Return: @string
   */
 
-char *leet(char *string)
+char *leet(char *s)
 {
 	int a;
 	int b;
@@ -13,16 +13,16 @@ char *leet(char *string)
 	char upper[] = "AEOTL";
 	char numbers[] = "43071";
 
-	for (a = 0; string[a] != '\0'; a++)
+	for (a = 0; s[a] != '\0'; a++)
 	{
 		for (b = 0; lower[b] != '\0' && upper[b] != '\0'; b++)
 		{
-			if (string[a] == lower[b] || string[a] == upper[b])
+			if (s[a] == lower[b] || s[a] == upper[b])
 			{
-				string[a]= numbers[b];
+				s[a]= numbers[b];
 				break;
 			}
 		}
 	}
-	return (string);
+	return (s);
 }
